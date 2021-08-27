@@ -70,3 +70,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Map without marker information
 
 ![alt text](https://github.com/Chico-hernando/tes_bhumi_varta_technology/blob/main/public/images/img_1.png)
+
+## Database used
+
+MySQL
+
+## Language used
+
+PHP (Laravel)
